@@ -3,7 +3,7 @@ package edt;
 public class test {
 
 	public static void main(String[] args) {
-		System.out.println("tedr github");
+		System.out.println("test github");
 	}
 
 }
